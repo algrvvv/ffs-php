@@ -1,7 +1,7 @@
 <?php
 
 /** site config **/
-const ROOT = 'http://fram.from.scratch/public';
+const ROOT = 'http://your/web/site.com';
 const DEBUG = true;
 
 /** database config **/
